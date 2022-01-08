@@ -13,11 +13,5 @@ public void saveContact() {
 	System.out.println("used to save contact");
 
 }
-	public static void main(String[] args) {
-		Mobile mob = new Mobile();
-		
-		
-
-	}
 
 }
