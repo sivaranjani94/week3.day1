@@ -5,5 +5,8 @@ public class SmartPhone extends Mobile {
 		System.out.println("used to see Whats App");
 
 	}
+	public void takeVideo() {
+		System.out.println("to take video");
+	}		
 	
 }
